@@ -1,4 +1,4 @@
-# Pressure-Induced Structural and Dielectric Changes in Liquid Water
+# DeepMD-Water-Pressure
 
 This repository contains the data, trained models, and analysis scripts associated with the publication:
 
