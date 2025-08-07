@@ -42,6 +42,4 @@ Please cite the above paper when using any part of this work.
 ## ✉️ Contact
 For questions, please contact:
 
-**Yizhi Song**  
-Department of Physics, Temple University
-Email: yizhi.song@temple.edu
+**Yizhi Song**  (yizhi.song@temple.edu)
