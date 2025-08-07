@@ -1,6 +1,7 @@
 # Pressure-Induced Structural and Dielectric Changes in Liquid Water
 
 This repository contains data, models, and analysis scripts used in our study:
+
 **Yizhi Song and Xifan Wu, “Pressure-Induced Structural and Dielectric Changes in Liquid Water at Room Temperature”,** The Journal of Chemical Physics, 162, 114508 (2025). (https://doi.org/10.1063/5.0247114)
 
 ## Overview
